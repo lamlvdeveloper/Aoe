@@ -1,4 +1,4 @@
-package com.example.aoe.view;
+package com.example.aoe.view.fragment.empire;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -14,10 +14,6 @@ import com.example.aoe.adapter.EmpireAdapter;
 import com.example.aoe.base.BaseFragment;
 import com.example.aoe.database.EmpireData;
 import com.example.aoe.databinding.FragmentEmpireBinding;
-import com.example.aoe.model.Empire;
-
-import java.util.ArrayList;
-import java.util.List;
 
 public class EmpireFragment extends BaseFragment {
     private FragmentEmpireBinding binding;

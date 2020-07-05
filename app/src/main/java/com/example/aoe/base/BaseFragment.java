@@ -5,7 +5,7 @@ import android.content.Context;
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 
-import com.example.aoe.MainActivity;
+import com.example.aoe.view.activity.main.MainActivity;
 
 public class BaseFragment extends Fragment {
 

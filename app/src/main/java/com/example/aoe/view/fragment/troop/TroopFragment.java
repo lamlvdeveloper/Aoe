@@ -1,4 +1,4 @@
-package com.example.aoe.view;
+package com.example.aoe.view.fragment.troop;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;

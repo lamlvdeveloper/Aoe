@@ -10,8 +10,8 @@ import androidx.fragment.app.FragmentPagerAdapter;
 
 import com.example.aoe.R;
 import com.example.aoe.ui.main.PlaceholderFragment;
-import com.example.aoe.view.EmpireFragment;
-import com.example.aoe.view.TroopFragment;
+import com.example.aoe.view.fragment.empire.EmpireFragment;
+import com.example.aoe.view.fragment.troop.TroopFragment;
 
 /**
  * A [FragmentPagerAdapter] that returns a fragment corresponding to

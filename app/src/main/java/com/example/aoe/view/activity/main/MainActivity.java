@@ -1,7 +1,9 @@
-package com.example.aoe;
+package com.example.aoe.view.activity.main;
 
 import android.os.Bundle;
 
+import com.example.aoe.R;
+import com.example.aoe.base.BaseActivity;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.snackbar.Snackbar;
 import com.google.android.material.tabs.TabLayout;
@@ -13,7 +15,7 @@ import android.view.View;
 
 import com.example.aoe.adapter.SectionsPagerAdapter;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends BaseActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
